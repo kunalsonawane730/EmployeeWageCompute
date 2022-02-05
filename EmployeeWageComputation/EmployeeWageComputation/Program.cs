@@ -7,4 +7,5 @@ EmployeeWageCompute attendence = new EmployeeWageCompute();
 //attendence.EmployeePresentAbsent();
 //EmployeeWageCompute.FindPartTimeEmployeeWage();
 //EmployeeWageCompute.FindDailyWage();
-EmployeeWageCompute.FindEmployeeWageSwitchCase();
+//EmployeeWageCompute.FindEmployeeWageSwitchCase();
+EmployeeWageCompute.FindWagesForMonth();
