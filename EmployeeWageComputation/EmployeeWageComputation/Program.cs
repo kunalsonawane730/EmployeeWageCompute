@@ -6,3 +6,4 @@ using EmployeeWageComputation;
 EmployeeWageCompute attendence = new EmployeeWageCompute();
 attendence.EmployeePresentAbsent();
 EmployeeWageCompute.FindPartTimeEmployeeWage();
+EmployeeWageCompute.FindDailyWage();
