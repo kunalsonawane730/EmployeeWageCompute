@@ -4,6 +4,7 @@ using EmployeeWageComputation;
 //Console.WriteLine("Hello, World!");
 
 EmployeeWageCompute attendence = new EmployeeWageCompute();
-attendence.EmployeePresentAbsent();
-EmployeeWageCompute.FindPartTimeEmployeeWage();
-EmployeeWageCompute.FindDailyWage();
+//attendence.EmployeePresentAbsent();
+//EmployeeWageCompute.FindPartTimeEmployeeWage();
+//EmployeeWageCompute.FindDailyWage();
+EmployeeWageCompute.FindEmployeeWageSwitchCase();
