@@ -10,3 +10,4 @@ EmployeeWageCompute attendence = new EmployeeWageCompute();
 //EmployeeWageCompute.FindEmployeeWageSwitchCase();
 //EmployeeWageCompute.FindWagesForMonth();
 EmployeeWageCompute.FindWagesFor100hrs();
+EmployeeWageCompute.FindWageFor100hrs();
